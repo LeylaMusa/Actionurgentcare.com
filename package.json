@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "cypress": "^13.8.0"
+  },
+  "dependencies": {
+    "mocha-reporter": "^0.1.1"
+  }
+}
